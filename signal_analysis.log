@@ -1,0 +1,5 @@
+WARNING:root:Signal contains a '0'
+INFO:root:Signal contains a -
+INFO:root:Signal contains a -
+INFO:root:Signal contains a -
+ERROR:root:Signal contains an invalid character
